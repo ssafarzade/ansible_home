@@ -1,6 +1,9 @@
 [all:vars]
 ansible_python_interpreter=/usr/bin/python3
 
+[server_old]
+172.16.150.14
+
 [my_servers]
 172.16.150.15
 172.16.150.16
